@@ -18,3 +18,5 @@ avg = sum/5;
 System.out.println("Average of 5 double values = "+avg);
 }
 }
+
+*/OUTPOT*/
